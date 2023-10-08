@@ -1,0 +1,69 @@
+[
+    {
+        "sku" : "01",
+        "nombre" : "Spiderman:",
+        "subtitulo" : "Entre los muertos",
+        "precio" : "4.000",
+        "imagen" : "./img/s-01.webp",
+        "descripcion" : "La peor pesadilla de Spiderman se ha hecho realidad. Uno de sus enemigos ha descubierto su identidad secreta y está usando esa información para golpear a la familia de Peter Parker. Ahora, Tía May ha sido secuestrada, y Mary Jane puede ser la siguiente."
+    },
+    {
+        "sku" : "02",
+        "nombre" : "Spiderman:",
+        "subtitulo" : "Percepciones",
+        "precio" : "6.300",
+        "imagen" : "./img/s-02.webp",
+        "descripcion" : "Cuando los rumores de que un bigfoot asesino anda suelto y va dejando cadáveres a su paso, Peter Parker viaja a Canadá en busca de respuestas. Se aliará con el salvaje Lobezno para hacer frente a un viejo enemigo y el superhéroe arácnido descubrirá hasta qué punto esta región inhóspita y fría puede ser peligrosa..."
+    },
+    {
+        "sku" : "03",
+        "nombre" : "Spiderman:",
+        "subtitulo" : "Spider-Island",
+        "precio" : "2.800",
+        "imagen" : "./img/s-03.webp",
+        "descripcion" : "Manhattan ha sido infectada: la gente convencional está consiguiendo poderes arácnidos sin motivo aparente. Y muy pocos de ellos son conscientes de que un gran poder conlleva... bueno, ya sabes qué. Todo ha cambiado para el verdadero Hombre Araña. Porque, cuando todo el mundo es Spiderman, nadie lo es realmente."
+    },
+    {
+        "sku" : "04",
+        "nombre" : "Spiderman:",
+        "subtitulo" : "La saga del Clon",
+        "precio" : "6.300",
+        "imagen" : "./img/s-04.webp",
+        "descripcion" : "Ha llegado el día en el que El Chacal va a hacer todo lo posible por destrozar totalmente la vida de Spiderman. Los fantasmas del pasado volverán a acechar a Peter Parker, mientras que la copia idéntica de alguien inesperado acecha en las sombras. ¡Asistiremos a una confrontación con los enemigos más mortales del héroe, en una saga arácnida que ya es clásica en el Universo Marvel!"
+    },
+    {
+        "sku" : "05",
+        "nombre" : "Joker:",
+        "subtitulo" : "Abogado del diablo",
+        "precio" : "10.000",
+        "imagen" : "./img/d-02.webp",
+        "descripcion" : "Está muriendo gente en Gotham City. Unos sellos envenenados están dejando en sus víctimas la particular impronta del Joker, que se convierte en el principal sospechoso del caso. No obstante, Batman está convencido de que su archienemigo no es el auténtico culpable.",
+        "novedad" : "si"
+    },
+    {
+        "sku" : "06",
+        "nombre" : "Marvel Ultimate #14:",
+        "subtitulo" : "6 Siniestos",
+        "precio" : "8.000",
+        "imagen" : "./img/m-01.webp",
+        "descripcion" : "Existen cinco hombres genéticamente alterados que tienen algo en común: todos han sido derrotados por Spiderman. El Duende Verde, Doctor Octopus, El Hombre de Arena, Electro y Kraven el Cazadorestán ahora bajo la custodia de SHIELD... Pero esa situación no durará mucho tiempo. ¿Qué ocurrirá cuando los cinco unan fuerzas y consigan escapar? ¿Y quién será su sexto e inesperado integrante?",
+        "novedad" : "no"
+    },
+    {
+        "sku" : "06",
+        "nombre" : "X-Men #12:",
+        "subtitulo" : "La Gente del Mañana",
+        "precio" : "8.000",
+        "imagen" : "./img/m-02.webp",
+        "descripcion" : "El sueño de paz y coexistencia entre humanos y mutantes ha llevado al Profesor Xavier a crear un refugio para los suyos, un lugar donde se educa la única fuerza capaz de defender al planeta de Magneto y su Hermandad de Mutantes... Pero este tiene un plan para acabar con Xavier. Y también un aliado con garras de adamantium.",
+        "novedad" : "si"
+    },
+    {
+        "sku" : "06",
+        "nombre" : "Batwoman #21:",
+        "subtitulo" : "Brazos de la muerte",
+        "precio" : "6.000",
+        "imagen" : "./img/d-01.webp",
+        "descripcion" : "Batman ha encomendado a Batwoman una nueva misión: encontrar una peligrosa arma biológica que alguien ha sacado de Gotham City. Comienza así un viaje en compañía de Julia, la hija de Alfred Pennyworth, que las conducirá a ambas a Turquía y a la peculiar isla de Coryana, un refugio para piratas y forajidos que nuestra protagonista conoce muy bien. Hace años, visitó la isla durante una de las épocas más complicadas de su vida."
+    }
+]

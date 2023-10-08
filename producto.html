@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Detalle del producto</title>
+    
+    <link rel="stylesheet" href="./css/master.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@40,400,0,0" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+</head>
+
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+            <div class="container-fluid">
+              <a class="navbar-brand" href="./index.html">
+                <img src="./img/TienditaComics.png" alt="TienditaComics" width="150"></a>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#novedades">Novedades</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#promociones">Promociones</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#productos">Comics</a>
+                  </li>
+                </ul>
+                <ul class="navbar-nav col-auto mb-2 mb-lg-0">
+                  <li class="nav-item">
+                    <a class="nav-link" href="#"><span class="material-symbols-rounded">account_circle</span></a></li>
+                  <li><a class="nav-link" href="#"><span class="material-symbols-rounded">shopping_bag</span></a></li>
+                  <li><a class="nav-link" href="#"><span class="material-symbols-rounded">search</span></a></li>
+                </ul>
+                
+                
+              </div>
+            </div>
+        </nav>
+    </header>
+    
+    <section  class="detalle ">
+        <article class="card">
+              <div class="col-12 col-md-6">
+                <div id="imagen"></div>
+              </div>
+              <div class="col-12 col-md-6">
+                <div class="product-container text-start">
+                  <p id="sku"></p>
+                  <h3 class="card-title" id="nombre"></h3>
+                  <h5 class="card-title" id="subtitulo"></h5>
+                  <p id="descripcion" class="card-text"></p>
+                  <h6 id="precio" class="card-text"></h6>
+                  <p class="card-text"><small class="text-body-secondary">Editorial Salvat</small></p>
+                  <a class="btn btn-outline-secondary d-inline-flex" id="btnVolver" href="#">
+                    <span class="material-symbols-rounded">arrow_back_ios</span>Volver</a>
+                </div>
+              </div>
+        </article>
+    </section>
+
+    
+    <footer class="w-100">
+      <div class="container-fluid">
+        
+        <div id="redes">
+            <img src="./img/TienditaComics.png" alt="TienditaComics" width="150"></a>
+            <a href="https://www.instagram.com" target="_blank"><ion-icon name="logo-instagram"></ion-icon></a>
+            <a href="https://www.facebook.com" target="_blank"><ion-icon name="logo-facebook"></ion-icon></a>
+            <a href="https://www.linkedin.com" target="_blank"><ion-icon name="logo-linkedin"></ion-icon></a>
+        </div>
+      
+        <div id="contacto">
+          <h4>Contacto</h4>
+          <h6>Tel: 011 4519-6010</h6>
+          <h6>Av. Falsa 123,Buenos Aires</h6>
+          <h6>Mail: info@tienditacomics.com.ar</h6>
+        </div>
+
+    </div>
+    </footer>
+
+    <!--Scripts-->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="./js/master.js"></script>
+    <script src="./js/producto.js"></script>
+
+</body>
+
+</html>
